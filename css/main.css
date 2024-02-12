@@ -1,0 +1,16 @@
+.winner {
+  background-color: red;
+}
+
+.winner h1 {
+  color: black;
+  font-weight: 700;
+}
+
+.winner h2 {
+  color: black;
+}
+
+.winner div {
+  background-color: rgb(202, 138, 4);
+}
